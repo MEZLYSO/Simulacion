@@ -1,10 +1,10 @@
-# Simulacion
+# Simulacion 📊
 
 ## Descripcion
 
-Ejercicios de la materia de ***simulacion***
+Ejercicios de la materia de ***Simulacion 📚***
 en este repositorio voy a documentar mi avance 
-en la materia utilizando ***Python*** y 
+en la materia utilizando ***Python 🐍*** y 
 librerias.
 
 ### Indice
