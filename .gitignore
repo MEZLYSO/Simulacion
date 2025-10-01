@@ -1,1 +1,8 @@
 .venv
+<<<<<<< HEAD
+=======
+.vscode
+datasets
+__MACOSX
+datasets.zip
+>>>>>>> 166f91d (Repair)
